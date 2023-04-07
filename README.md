@@ -1,1 +1,1 @@
-# Imagem_borrao
+# Imagem com o filtro Blur
