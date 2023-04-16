@@ -1,6 +1,3 @@
 # Imagem com o filtro Blur
 
-Tecnologias usadas no projeto:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Blur](https://user-images.githubusercontent.com/129342644/232306791-646ca15d-cb8e-46a8-9904-daabdf8d8a83.png)
